@@ -17,7 +17,7 @@
                     
 
 					<div>
-						<img class="cardImg" src={kitsap} alt="Placeholder image">
+						<img class="cardImg" src={kitsap} alt="Placeholder">
 					</div>
 				</div>
 			</div>
@@ -25,7 +25,7 @@
 				<div class="card-body">
 					<h1 class="card-title">Mason County</h1>
 					<div>
-						<img class="cardImg" src={mason} alt="Placeholder image">
+						<img class="cardImg" src={mason} alt="Placeholder">
 					</div>
 				</div>
 			</div>
@@ -33,7 +33,7 @@
 				<div class="card-body">
 					<h1 class="card-title">Pierce County</h1>
 					<div>
-						<img class="cardImg" src={pierce} alt="Placeholder image">
+						<img class="cardImg" src={pierce} alt="Placeholder">
 					</div>
 				</div>
 			</div>

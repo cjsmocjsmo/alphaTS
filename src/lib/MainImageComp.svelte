@@ -11,7 +11,7 @@
         width: 95%;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 2em;
+        /* margin-top: 65vh; */
         margin-bottom: 2em;
         border-radius: 12px;
     }
